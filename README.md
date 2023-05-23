@@ -25,8 +25,8 @@ Study Plan: https://elzero.org/study/cplusplus-study-plan/
 
 * [X] 01-Intro Syntax Comments Assignments              [001 - 008]
 * [X] 02-Variables Assignments                          [009 - 015]
-* [ ] 03-Data Types Assignments                         [016 - 023]
-* [ ] 04-Operators Assignments                          [024 - 029]
+* [X] 03-Data Types Assignments                         [016 - 023]
+* [X] 04-Operators Assignments                          [024 - 029]
 * [ ] 05-Control Flow - Conditions & Switch Assignments [030 - 037]
 * [ ] 06-Array & String Assignments                     [038 - 046]
 * [ ] 07-Loop Assignments                               [047 - 054]
