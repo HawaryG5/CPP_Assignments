@@ -13,6 +13,10 @@ int main()
   num += num;
 
   // Do Not Edit
-  cout << num << "\n"; // 6
+  cout << num << "\n";
   return 0;
 }
+/*
+Output
+  6
+*/

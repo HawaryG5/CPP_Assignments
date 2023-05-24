@@ -8,7 +8,7 @@ int main()
   // Add Your Code Here
   a = b = c;
   // Do Not Edit Below
-  cout << a + b + c; // 300
+  cout << a + b + c;
   return 0;
 }
 /*

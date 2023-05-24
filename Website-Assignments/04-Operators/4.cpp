@@ -3,6 +3,10 @@ using namespace std;
 
 int main()
 {
-  cout << (int(10.5) * 5) + int(40.5 + 10.1) << "\n"; // 100
+  cout << (int(10.5) * 5) + int(40.5 + 10.1) << "\n";
   return 0;
 }
+/*
+Output
+  100
+*/

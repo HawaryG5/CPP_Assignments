@@ -13,3 +13,7 @@ int main()
   cout << b * c + a << "\n"; // 1000
   return 0;
 }
+/*
+Output
+  1000
+*/

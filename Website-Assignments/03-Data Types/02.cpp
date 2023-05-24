@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
   double salary = 5000.98;
-  cout << sizeof(salary) << "\n";
-  cout << sizeof(salary) * 8 << "\n";
+  cout << sizeof(salary) << " Bytes\n";
+  cout << sizeof(salary) * 8 << " Bits\n";
   return 0;
 }
 /*

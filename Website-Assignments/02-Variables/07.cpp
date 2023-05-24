@@ -5,7 +5,7 @@ int num = 50;
 
 int read()
 {
-  int num = 50;
+  int num = 100;
   cout << num;
   return 0;
 }
