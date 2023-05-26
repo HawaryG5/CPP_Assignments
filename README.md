@@ -23,15 +23,16 @@ Study Plan: https://elzero.org/study/cplusplus-study-plan/
 > Website Assignments
 
 
-* [X] 01-Intro Syntax Comments Assignments              [001 - 008]
-* [X] 02-Variables Assignments                          [009 - 015]
-* [X] 03-Data Types Assignments                         [016 - 023]
-* [X] 04-Operators Assignments                          [024 - 029]
-* [ ] 05-Control Flow - Conditions & Switch Assignments [030 - 037]
-* [ ] 06-Array & String Assignments                     [038 - 046]
-* [ ] 07-Loop Assignments                               [047 - 054]
-* [ ] 08-Function Assignments                           [055 - 066]
-* [ ] 09-Containers - Vector Assignments                [067 - 074]
+* [X] 01- Intro Syntax Comments Assignments              [001 - 008]
+* [X] 02- Variables Assignments                          [009 - 015]
+* [X] 03- Data Types Assignments                         [016 - 023]
+* [X] 04- Operators Assignments                          [024 - 029]
+* [X] 05- Control Flow Conditions                        [030 - 035]
+* [X] 06- Switch Assignments                             [036 - 037]
+* [ ] 07- Array & String Assignments                     [038 - 046]
+* [ ] 08- Loop Assignments                               [047 - 054]
+* [ ] 09- Function Assignments                           [055 - 066]
+* [ ] 10- Containers - Vector Assignments                [067 - 074]
 * [ ] -
 * [ ] -
 * [ ] -
