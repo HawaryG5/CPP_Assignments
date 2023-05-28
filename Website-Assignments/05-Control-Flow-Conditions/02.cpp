@@ -6,14 +6,29 @@ int main()
   // Test Case 1
   int age = 18;
   int points = 450;
+/*
+Output
+  "No Age Is Not Ok"
+  "No Points Is Not Ok"
+*/
 
   // Test Case 2
-  // int age = 20;
-  // int points = 450;
+  int age = 20;
+  int points = 450;
+/*
+Output
+  "Yes Age Is Ok"
+  "No Points Is Not Ok"
+*/
 
   // Test Case 3
-  // int age = 20;
-  // int points = 650;
+  int age = 20;
+  int points = 650;
+/*
+Output
+  "Yes Age Is Ok"
+  "Yes Points Is Ok"
+*/
 
   if (age > 18)
   {
@@ -41,16 +56,3 @@ int main()
   }
   return 0;
 }
-/*
-Output Case 1
-  "No Age Is Not Ok"
-  "No Points Is Not Ok"
-
-Output Case 2
-  "Yes Age Is Ok"
-  "No Points Is Not Ok"
-
-Output Case 3
-  "Yes Age Is Ok"
-  "Yes Points Is Ok"
-*/

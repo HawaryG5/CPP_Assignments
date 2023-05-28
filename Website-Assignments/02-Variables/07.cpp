@@ -20,9 +20,6 @@ int play()
 int main()
 {
   play();
+  // Output => 100
   return 0;
 }
-/*
-Output
-  100
-*/

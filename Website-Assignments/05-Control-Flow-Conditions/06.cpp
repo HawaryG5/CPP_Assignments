@@ -12,6 +12,7 @@ int main()
     cout << "Age Is Ok\n";
     cout << "Points Is Ok\n";
   }
+
   return 0;
 }
 /*

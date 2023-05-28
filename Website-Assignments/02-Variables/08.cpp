@@ -11,9 +11,8 @@ int main()
   birth_year = 1982;
   int age_in_years = current_year - birth_year;
   cout << age_in_years;
+
+  // Output => 40
+
   return 0;
 }
-/*
-Output
-  40
-*/

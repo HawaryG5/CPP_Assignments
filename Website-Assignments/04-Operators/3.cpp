@@ -13,10 +13,7 @@ int main()
   num += num;
 
   // Do Not Edit
-  cout << num << "\n";
+  cout << num << "\n"; // 6
+
   return 0;
 }
-/*
-Output
-  6
-*/

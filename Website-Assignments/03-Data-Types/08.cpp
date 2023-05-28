@@ -9,14 +9,9 @@ int main()
   long double c = 100.54565746;
 
   // Do Not Edit
-  cout << sizeof(a) << " Bytes\n";
-  cout << sizeof(b) << " Bytes\n";
-  cout << sizeof(c) << " Bytes\n";
+  cout << sizeof(a) << " Bytes\n"; // 2 Bytes
+  cout << sizeof(b) << " Bytes\n"; // 8 Bytes
+  cout << sizeof(c) << " Bytes\n"; // 16 Bytes
+
   return 0;
 }
-/*
-Output
-  2 Bytes
-  8 Bytes
-  16 Bytes
-*/

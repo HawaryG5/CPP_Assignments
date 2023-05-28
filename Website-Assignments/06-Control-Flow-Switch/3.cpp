@@ -5,6 +5,7 @@ int main()
 {
   int num;
   cin >> num;
+
   // If Condition
   if (num == 10)
   {
@@ -41,5 +42,6 @@ int main()
     cout << "Invalid Number";
     break;
   }
+
   return 0;
 }

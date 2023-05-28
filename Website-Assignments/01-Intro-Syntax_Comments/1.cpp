@@ -7,9 +7,3 @@ int main()
   std::cout << "Line Three\n";
   return 0;
 }
-/*
-Output
-  Line One
-  Line Two
-  Line Three
-*/

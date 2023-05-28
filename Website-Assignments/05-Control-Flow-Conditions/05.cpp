@@ -22,5 +22,6 @@ int main()
   // Ternary Operator
   result = (by > 80) ? (s < 600) ? "Ok\n" : "High\n" : "Not Ok\n";
   cout << result << "\n";
+
   return 0;
 }

@@ -10,16 +10,10 @@ int main()
   double d = 500.55;
 
   // Do Not Edit
-  cout << a << "\n";
-  cout << b << "\n";
-  cout << c << "\n";
-  cout << d << "\n";
+  cout << a << "\n"; // 100
+  cout << b << "\n"; // -100
+  cout << c << "\n"; // 100
+  cout << d << "\n"; // 500.55
+
   return 0;
 }
-/*
-Output
-  100
-  -100
-  100
-  500.55
-*/

@@ -10,10 +10,8 @@ int main()
   b = b - 2;
   c = c - 2;
   // Do Not Edit
+
   cout << b * c + a << "\n"; // 1000
+
   return 0;
 }
-/*
-Output
-  1000
-*/
